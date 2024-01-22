@@ -1,0 +1,70 @@
+@media(max-width:767.98px){
+    .navbar-brand img{
+        width: 80px;
+        height: 30px;
+    }
+    .netflix-padding-left{
+        padding-left: 15px;
+    }
+    
+    .netflix-padding-left{
+        padding-right: 15px;
+    }
+
+    .netflix-dropdown-box{
+        display: block;
+    }
+
+    .netflix-nav{
+        display: none;
+    }
+
+    .netflix-nav svg{
+        width: 15px;
+        height: 15px;
+        color: white;
+        margin-right: 20px;
+        cursor: pointer;
+    }
+
+    .netflix-profile{
+        margin-left: 10px !important;
+    }
+
+    .netflix-home-video .content .left{
+        margin-left: 25px !important;
+    }
+
+    .netflix-home-video .content .left img{
+        margin-top: 100px !important;
+        width: 200px;
+    }
+
+    button{
+        font-size: 10px !important;
+        width: max-content !important;
+        opacity: 0.8;
+    }
+
+    .card{
+        width: 210px;
+    }
+
+    .card-icon{
+        width: 15px;
+        height: 15px;
+    }
+
+    .i-card{
+        font-size: 15px;
+    }
+
+    .slider1{
+        top: 250px;
+        margin-left: 0px;
+    }
+
+    .card-body{
+        top: 120px;
+    }
+}
